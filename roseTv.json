@@ -1,5 +1,5 @@
 {
-  "spider": "https://codeberg.org/roseZhao/roseTv/raw/branch/master/pg.jar",
+  "spider": "https://raw.githubusercontent.com/zhaoyunling/roseTv/refs/heads/main/pg.jar",
   "sites": [
     {
       "key": "js豆瓣1",
